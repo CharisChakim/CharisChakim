@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharisChakim
 - 👀 I’m interested in Data Industries
-- 🌱 I’m currently learning abour Data Engineering
+- 🌱 I’m currently learning about Data Engineering
 - 💞️ I’m looking to collaborate on any data project
 - 📫 How to reach me : e-mail --> m.charischakim@gmail.com
 
