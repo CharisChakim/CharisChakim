@@ -14,7 +14,7 @@ I am a Data Engineer or sometimes Analyst and maybe can be scientist too, so man
 
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/charischak?style=social)
-![Linkedin Connect](https://i.stack.imgur.com/gVE0j.png).(https://www.linkedin.com/in/m-charis-chakim/)
+[![Linkedin Connect](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/m-charis-chakim/)
 [![Github Badge](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/CharisChakim)
 
 <!---
