@@ -14,8 +14,8 @@ I am a Data Engineer or sometimes Analyst and maybe can be scientist too, so man
 
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/charischak?style=social)
-![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/m-charis-chakim/)
-
+![Linkedin Connect](https://i.stack.imgur.com/gVE0j.png).(https://www.linkedin.com/in/m-charis-chakim/)
+[![Github Badge](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/CharisChakim)
 
 <!---
 CharisChakim/CharisChakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
