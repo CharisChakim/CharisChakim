@@ -1,8 +1,11 @@
 ### 👋 Hi there 
-I am a Data Engineer or sometimes Analyst and maybe can be scientist too, so many gray zone there and have experience in working in (Loading . . .  Oh no I'm Fresher in this Industry). Interested in making life easier by creating utility tools. Fascinated about Data.
 
+I like to think of myself as a Data Engineer/Analyst/Scientist hybrid, but let's be real, there's a lot of gray area in this field. Despite being a fresh face in the industry, I'm eager to make my mark by creating useful tools that make life easier. Data is my passion, and I'm constantly seeking ways to turn it into actionable insights.
 
-- 🌱 I’m currently learning about Data Engineering Airflow, Airbyte, Spark, Google Cloud, DataBase Modeling and other things.
+Currently, I'm expanding my knowledge in Data Engineering with tools like Airflow, Airbyte, Spark, Google Cloud, and Database Modeling, to name a few. I'm always on the lookout for the latest trends and innovations in the data industry, and I'm excited to apply my skills to real-world problems.
+
+As a job seeker, I'm eager to collaborate on any data project that challenges me and allows me to grow as a professional. If you're looking for a data enthusiast with a sense of humor and a passion for learning, then I'm your guy/gal! Let's connect and see what we can accomplish together.
+
 - 👀 I’m so interested in Data Industries
 - ⚡ Currently Looking for Job.
 - 💞️ I’m looking to collaborate on any data project
